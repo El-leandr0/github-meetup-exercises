@@ -3,7 +3,7 @@ def test_health():
 
 def test_auth():
     token = "test-token"
-    assert len(token) > 0, "Token should not be empty"
+    assert len(token) < 0, "Token should not be empty"
 
 def test_data():
     records = [{"id": 1}, {"id": 2}, {"id": 3}]
