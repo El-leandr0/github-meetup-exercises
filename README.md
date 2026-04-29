@@ -2,8 +2,8 @@
 
 Build and ship real GitHub Actions workflows from scratch.  
 Each exercise maps to a mission in the ActionsQuest game, but here you write the code yourself.
-
----
+.
+---..
 
 ## Setup
 
